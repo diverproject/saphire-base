@@ -1,0 +1,27 @@
+{
+    "name": "saphire-base",
+    "version": "0.2.0",
+    "description": "A base library for another frameworks of Saphire Diver Project Fremawork.",
+    "keywords": [
+        "base",
+        "string",
+        "integer",
+        "float",
+        "framework"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "expect.js": "^0.3.1",
+        "mocha": "^4.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diverproject/saphire-base"
+    },
+    "contributes": {
+        "name": "Andrew Mello da Silva",
+        "email": "driwundernight@gmail.com"
+    }
+}
